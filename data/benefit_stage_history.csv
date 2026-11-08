@@ -1,0 +1,57 @@
+benefit_id,stage,stage_date,recorded_by
+B01,Identified,2025-09-07,Head of Student Enquiries
+B01,Defined,2025-10-07,Head of Student Enquiries
+B01,Planned,2025-11-07,Head of Student Enquiries
+B01,Realising,2026-02-09,Head of Student Enquiries
+B01,Realised,2026-10-28,Head of Student Enquiries
+B02,Identified,2025-09-07,Finance Business Partner
+B02,Defined,2025-10-04,Finance Business Partner
+B02,Planned,2025-11-07,Finance Business Partner
+B02,Realising,2026-02-10,Finance Business Partner
+B03,Identified,2025-09-21,Head of Student Enquiries
+B03,Defined,2025-10-24,Head of Student Enquiries
+B03,Planned,2025-12-03,Head of Student Enquiries
+B03,Realising,2026-02-10,Head of Student Enquiries
+D01,Identified,2025-09-21,Finance Business Partner
+D01,Defined,2025-11-03,Finance Business Partner
+D01,Planned,2025-12-12,Finance Business Partner
+D01,Realising,2026-02-08,Finance Business Partner
+B04,Identified,2025-10-18,Head of Timetabling
+B04,Defined,2025-11-14,Head of Timetabling
+B04,Planned,2025-11-29,Head of Timetabling
+B04,Realising,2026-05-10,Head of Timetabling
+B05,Identified,2025-10-06,Finance Business Partner
+B05,Defined,2025-10-29,Finance Business Partner
+B05,Planned,2025-11-22,Finance Business Partner
+B05,Realising,2026-05-02,Finance Business Partner
+B06,Identified,2025-10-18,Head of Estates Planning
+B06,Defined,2025-11-07,Head of Estates Planning
+B06,Planned,2025-12-13,Head of Estates Planning
+B06,Realising,2026-05-08,Head of Estates Planning
+D02,Identified,2025-10-14,Head of Timetabling
+D02,Defined,2025-11-09,Head of Timetabling
+D02,Planned,2025-12-06,Head of Timetabling
+D02,Realising,2026-05-05,Head of Timetabling
+B07,Identified,2026-01-26,Head of Assessment
+B07,Defined,2026-02-26,Head of Assessment
+B07,Planned,2026-04-07,Head of Assessment
+B07,Realising,2026-08-07,Head of Assessment
+B07,Realised,2026-10-20,Head of Assessment
+B08,Identified,2026-01-31,Head of Assessment
+B08,Defined,2026-03-12,Head of Assessment
+B08,Planned,2026-03-29,Head of Assessment
+B08,Realising,2026-08-06,Head of Assessment
+B09,Identified,2026-01-17,Vice-Dean (Education)
+B09,Defined,2026-02-23,Vice-Dean (Education)
+B09,Planned,2026-03-27,Vice-Dean (Education)
+B09,Realising,2026-08-05,Vice-Dean (Education)
+D03,Identified,2026-01-24,IT Service Manager
+D03,Defined,2026-02-27,IT Service Manager
+D03,Planned,2026-03-18,IT Service Manager
+D03,Realising,2026-08-11,IT Service Manager
+B10,Identified,2026-06-13,HR Operations Manager
+B10,Defined,2026-07-03,HR Operations Manager
+B10,Planned,2026-08-09,HR Operations Manager
+B11,Identified,2026-06-15,HR Operations Manager
+B11,Defined,2026-07-16,HR Operations Manager
+B12,Identified,2026-06-18,hr operations manager

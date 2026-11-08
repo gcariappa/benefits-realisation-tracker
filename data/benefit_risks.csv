@@ -1,0 +1,11 @@
+risk_id,benefit_id,raised_date,risk_description,likelihood,impact,risk_status,risk_owner
+R01,B03,2026-04-14,Satisfaction survey response rate below 15% makes the measure unreliable,4,3,Open,Head of Student Enquiries
+R02,B05,2026-06-02,"Saved admin hours not released from budget, so cashable saving is not banked",4,4,Open,Finance Business Partner
+R03,B06,2026-06-20,"Departments keep booking rooms outside the system, hiding real utilisation",5,3,Open,Head of Estates Planning
+R04,D02,2026-07-09,Override workload exceeding tolerance as rules engine lacks part-time staff constraints,4,4,Open,Head of Timetabling
+R05,B09,2026-09-11,Markers not yet trained on online marking tools,3,4,Open,Vice-Dean (Education)
+R06,B08,2026-09-30,Benefit owner on leave; September measure not reported,3,2,Open,Head of Assessment
+R07,B02,2026-03-03,"Agency contracts have 3-month notice periods, delaying savings",3,3,Closed,Finance Business Partner
+R08,B10,2026-08-18,Payroll system integration may slip beyond January go-live,3,4,Open,HR Operations Manager
+R09,B12,2026-10-05,No baseline agreed for HR admin cost; benefit cannot be targeted,4,3,Open,Director of HR
+R10,D03,2026-08-24,Ticket spike in first assessment week overwhelms the service desk,2,3,Closed,IT Service Manager

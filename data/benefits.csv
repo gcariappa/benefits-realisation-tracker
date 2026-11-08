@@ -1,0 +1,16 @@
+benefit_id,project_id,benefit_name,benefit_type,is_disbenefit,benefit_owner,unit,desired_direction,baseline_value,target_value,target_date
+B01,P1,Reduce average enquiry response time,Non-cashable,0,Head of Student Enquiries,hours,Decrease,72.0,24.0,2026-09-01
+B02,P1,Reduce temporary staffing cost in enquiries,Cashable,0,Finance Business Partner,GBP per month,Decrease,18000.0,9000.0,2026-12-01
+B03,P1,Increase student satisfaction with enquiries,Quality,0,Head of Student Enquiries,% satisfied,Increase,64.0,80.0,2027-01-01
+D01,P1,Portal licence and support cost,Cashable,1,Finance Business Partner,GBP per month,Decrease,0.0,2500.0,2026-12-01
+B04,P2,Reduce timetable clashes,Non-cashable,0,Head of Timetabling,clashes per month,Decrease,340.0,50.0,2027-03-01
+B05,P2,Reduce timetabling admin cost,Cashable,0,Finance Business Partner,GBP per month,Decrease,14000.0,8000.0,2027-01-01
+B06,P2,Increase teaching room utilisation,Quality,0,Head of Estates Planning,% utilisation,Increase,48.0,65.0,2027-06-01
+D02,P2,Staff time spent on manual timetable overrides,Non-cashable,1,Head of Timetabling,hours per month,Decrease,0.0,80.0,2027-03-01
+B07,P3,Reduce printing and paper cost,Cashable,0,Head of Assessment,GBP per month,Decrease,6000.0,1000.0,2026-09-01
+B08,P3,Reduce late-submission disputes,Non-cashable,0,Head of Assessment,disputes per month,Decrease,90.0,30.0,2027-02-01
+B09,P3,Reduce marking turnaround time,Quality,0,Vice-Dean (Education),working days,Decrease,21.0,15.0,2027-02-01
+D03,P3,IT service desk tickets about submission,Non-cashable,1,IT Service Manager,tickets per month,Decrease,0.0,150.0,2027-02-01
+B10,P4,Reduce new starter onboarding time,Non-cashable,0,HR Operations Manager,working days,Decrease,15.0,5.0,2027-06-01
+B11,P4,Increase new starter satisfaction,Quality,0,HR Operations Manager,% satisfied,Increase,70.0,85.0,2027-09-01
+B12,P4,Reduce HR administration cost,Cashable,0,hr operations manager,GBP per month,Decrease,9000.0,,

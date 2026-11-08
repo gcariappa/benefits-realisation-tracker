@@ -1,0 +1,12 @@
+impact_id,project_id,change_area,as_is,to_be,impacted_group,impact_level
+I01,P1,Process,Students email or phone 6 separate teams,One online portal routes every enquiry,Students,High
+I02,P1,Structure,Enquiries handled by each faculty office,Central enquiries team with faculty specialists,Professional services staff,High
+I03,P1,System,Shared inboxes and spreadsheets,Case management system with service levels,Professional services staff,Medium
+I04,P2,Process,Timetable built manually in spreadsheets over 10 weeks,Rules-based scheduling with manual review,Timetabling team,High
+I05,P2,System,Room bookings in a separate calendar tool,Bookings and timetable in one system,Academic staff,Medium
+I06,P2,Stakeholder,Teaching preferences collected by email,Preferences submitted through a web form by a deadline,Academic staff,Medium
+I07,P3,Process,Paper submission at faculty offices,Online submission with automatic receipts,Students,High
+I08,P3,Process,Paper marking and manual mark entry,Online marking with marks synced to the records system,Academic staff,High
+I09,P3,System,No central record of submission times,Timestamped submissions for disputes,Assessment team,Low
+I10,P4,Process,"Onboarding tasks tracked by email between HR, IT and managers",Workflow with automatic task assignment,Line managers,Medium
+I11,P4,System,IT accounts requested by separate form,Accounts created automatically from the HR record,IT service desk,Low
