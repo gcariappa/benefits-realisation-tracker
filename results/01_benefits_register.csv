@@ -1,0 +1,16 @@
+benefit_id,benefit_name,project_name,benefit_owner,current_stage
+B01,Reduce average enquiry response time,Online Enquiries Portal,Head of Student Enquiries,Realised
+B02,Reduce temporary staffing cost in enquiries,Online Enquiries Portal,Finance Business Partner,Realising
+B03,Increase student satisfaction with enquiries,Online Enquiries Portal,Head of Student Enquiries,Realising
+D01,Portal licence and support cost,Online Enquiries Portal,Finance Business Partner,Realising
+B04,Reduce timetable clashes,Automated Timetabling,Head of Timetabling,Realising
+B05,Reduce timetabling admin cost,Automated Timetabling,Finance Business Partner,Realising
+B06,Increase teaching room utilisation,Automated Timetabling,Head of Estates Planning,Realising
+D02,Staff time spent on manual timetable overrides,Automated Timetabling,Head of Timetabling,Realising
+B07,Reduce printing and paper cost,Digital Assessment Submission,Head of Assessment,Realised
+B08,Reduce late-submission disputes,Digital Assessment Submission,Head of Assessment,Realising
+B09,Reduce marking turnaround time,Digital Assessment Submission,Vice-Dean (Education),Realising
+D03,IT service desk tickets about submission,Digital Assessment Submission,IT Service Manager,Realising
+B10,Reduce new starter onboarding time,Staff Onboarding Workflow,HR Operations Manager,Planned
+B11,Increase new starter satisfaction,Staff Onboarding Workflow,HR Operations Manager,Defined
+B12,Reduce HR administration cost,Staff Onboarding Workflow,hr operations manager,Identified

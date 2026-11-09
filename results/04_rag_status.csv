@@ -1,0 +1,10 @@
+benefit_id,benefit_name,pct_of_plan,rag
+B06,Increase teaching room utilisation,48.0,Red
+B08,Reduce late-submission disputes,60.6,Red
+B03,Increase student satisfaction with enquiries,63.0,Red
+B09,Reduce marking turnaround time,66.7,Red
+B04,Reduce timetable clashes,78.2,Amber
+B05,Reduce timetabling admin cost,88.5,Amber
+B02,Reduce temporary staffing cost in enquiries,98.2,Green
+B07,Reduce printing and paper cost,102.0,Green
+B01,Reduce average enquiry response time,102.5,Green

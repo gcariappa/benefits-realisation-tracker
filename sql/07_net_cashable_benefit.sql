@@ -1,7 +1,16 @@
--- Question 07: Net cashable benefit to date. Across all cashable actuals so far, return one row: gross_savings (sum of baseline − actual for benefits), disbenefit_cost (sum of actual for cashable dis-benefits) and net_benefit (gross − cost). All 0 dp.
---
--- Business question for the sponsor:
---   (one line in your own words: what decision does this answer support?)
+-- 07 | What is the net cashable benefit to date once dis-benefit costs are counted?
+-- Why it matters: Gives the honest financial position: savings minus the new costs the change created.
+-- Database: SQLite. Tables are described in docs/data_dictionary.md.
 
--- Paste your query from the SQL Training Ground (lab question 9.7) below.
-
+-- CASE inside SUM adds up only the rows that fit each column.
+SELECT ROUND(SUM(CASE WHEN b.is_disbenefit = 0
+                      THEN b.baseline_value - a.actual_value ELSE 0 END), 0) AS gross_savings,
+       ROUND(SUM(CASE WHEN b.is_disbenefit = 1
+                      THEN a.actual_value ELSE 0 END), 0)                    AS disbenefit_cost,
+       ROUND(SUM(CASE WHEN b.is_disbenefit = 0
+                      THEN b.baseline_value - a.actual_value
+                      ELSE -a.actual_value END), 0)                          AS net_benefit
+FROM benefit_actuals a
+JOIN benefits b
+  ON b.benefit_id = a.benefit_id
+WHERE b.benefit_type = 'Cashable';

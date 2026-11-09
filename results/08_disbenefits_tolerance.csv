@@ -1,0 +1,4 @@
+benefit_id,benefit_name,latest_actual,tolerance,status
+D01,Portal licence and support cost,2250.0,2500.0,Within tolerance
+D02,Staff time spent on manual timetable overrides,83.0,80.0,Over tolerance
+D03,IT service desk tickets about submission,145.0,150.0,Within tolerance

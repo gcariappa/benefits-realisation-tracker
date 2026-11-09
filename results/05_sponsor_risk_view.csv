@@ -1,0 +1,8 @@
+project_name,benefit_name,risk_description,risk_score
+Automated Timetabling,Reduce timetabling admin cost,"Saved admin hours not released from budget, so cashable saving is not banked",16
+Automated Timetabling,Staff time spent on manual timetable overrides,Override workload exceeding tolerance as rules engine lacks part-time staff constraints,16
+Automated Timetabling,Increase teaching room utilisation,"Departments keep booking rooms outside the system, hiding real utilisation",15
+Online Enquiries Portal,Increase student satisfaction with enquiries,Satisfaction survey response rate below 15% makes the measure unreliable,12
+Digital Assessment Submission,Reduce marking turnaround time,Markers not yet trained on online marking tools,12
+Staff Onboarding Workflow,Reduce new starter onboarding time,Payroll system integration may slip beyond January go-live,12
+Staff Onboarding Workflow,Reduce HR administration cost,No baseline agreed for HR admin cost; benefit cannot be targeted,12
