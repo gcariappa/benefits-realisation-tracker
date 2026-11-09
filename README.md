@@ -82,4 +82,4 @@ SQL (SQLite) · Power BI · Excel
 
 ## About me
 
-Gana Cariappa: sports scientist and analyst in London, MSc Human and Applied Physiology (King's College London). [LinkedIn](LINKEDIN_URL)
+Gana Cariappa: sports scientist and analyst in London, MSc Human and Applied Physiology (King's College London). [[LinkedIn](LINKEDIN_URL)](https://www.linkedin.com/in/gana-cariappa/)
