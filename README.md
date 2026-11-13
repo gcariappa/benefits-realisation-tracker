@@ -94,4 +94,4 @@ SQL (SQLite) · Power BI · Excel
 
 ## About me
 
-Gana Cariappa: sports scientist and analyst in London, MSc Human and Applied Physiology (King's College London). [LinkedIn](https://www.linkedin.com/in/gana-cariappa/)
+Gana Cariappa: analyst with a sports science background, based in London. I’ve built data models, benchmarks and Power BI reporting for multi-stakeholder programmes at the Premier League. MSc Human and Applied Physiology, King’s College London. LinkedIn [LinkedIn](https://www.linkedin.com/in/gana-cariappa/)
