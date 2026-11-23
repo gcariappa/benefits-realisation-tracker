@@ -69,6 +69,14 @@ Built in Power BI from the query results.
 
 ![Trends, risks and data quality: savings trend, high risks, dis-benefits, reporting gaps and change impact](dashboard/02_trends_risks_data_quality.png)
 
+## Process map: Automated Timetabling (as-is → to-be)
+
+Automated Timetabling carries the most risk in the programme, so I mapped its process before and after the change in BPMN. The as-is map shows the manual spreadsheet build and its clash-rework loop. The to-be map shows where the rules engine takes over, where people still review, and where the manual-override dis-benefit (83 hrs a month vs an 80-hour tolerance) comes from: the engine has no part-time staff rules. It also adds two controls the old process lacked: a fallback when staff miss the preferences deadline, and logging of every override's reason and time, so the dis-benefit can be measured. It also adds two controls the old process lacked: a fallback when staff miss the preferences deadline, and logging of every override's reason and time, so the dis-benefit can be measured.
+
+![Automated Timetabling as-is and to-be BPMN](docs/timetabling_bpmn.png)
+
+Editable source: [timetabling_bpmn.drawio](docs/timetabling_bpmn.drawio) (open in draw.io).
+
 ## Recommendations
 
 Prioritised by how far each benefit is behind plan and the risks attached. The full version is in the [sponsor report](report/sponsor_report.md).
